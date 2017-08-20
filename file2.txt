@@ -1,0 +1,12 @@
+ Volume in drive D has no label.
+ Volume Serial Number is EC8A-8979
+
+ Directory of D:\Softwares\Jenkins\TestJavaProject
+
+08/21/2017  01:34 AM    <DIR>          .
+08/21/2017  01:34 AM    <DIR>          ..
+08/21/2017  01:34 AM                 0 file2.txt
+08/21/2017  01:31 AM               684 HelloWorld.class
+08/20/2017  11:22 PM               216 HelloWorld.java
+               3 File(s)            900 bytes
+               2 Dir(s)  210,730,303,488 bytes free
